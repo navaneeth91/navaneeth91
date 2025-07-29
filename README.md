@@ -11,7 +11,7 @@
 - Tools: Git, GitHub, VS Code, Salesforce
 
 ## 📊 GitHub Stats
-![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=navaneethsiliveri&show_icons=true&theme=radical)
+![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=navaneeth91&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/navaneeth-siliveri-99b1392a9/)
