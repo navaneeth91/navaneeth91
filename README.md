@@ -15,5 +15,5 @@
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/navaneeth-siliveri-99b1392a9/)
-- [Portfolio Website](https://navaneeth-port.netlify.app/)
+- [Portfolio Website](https://www.navaneeth.studio/)
 - 📫 Email: navaneethsiliveri02@gmail.com
