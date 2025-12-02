@@ -6,7 +6,7 @@
 - 🌱 Currently learning: JavaScript, React, and Salesforce
 
 ## 🚀 Skills
-- Languages: C++, Java, Python, JavaScript
+- Languages: Java, Python, JavaScript
 - Web: HTML, CSS, React.js, Node.js
 - Tools: Git, GitHub, VS Code, Salesforce
 
