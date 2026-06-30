@@ -3,12 +3,12 @@
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Student | Salesforce Intern
 - 💻 Passionate about coding, problem solving, and full-stack development
-- 🌱 Currently learning: JavaScript, React, and Salesforce
+- 🌱 Currently learning: JavaScript, React, and Salesforce crm
 
 ## 🚀 Skills
 - Languages: Java, Python, JavaScript
 - Web: HTML, CSS, React.js, Node.js
-- Tools: Git, GitHub, VS Code, Salesforce
+- Tools: Git, GitHub, VS Code, Salesforce trailhead
 
 ## 📊 GitHub Stats
 ![Navaneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=navaneeth91&show_icons=true&theme=radical)
